@@ -16,9 +16,16 @@ Currently looking for **frontend work, internships, or projects** where I can gr
 ---
 
 ## 📫 Contact me 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/l2093l)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/00arseniy/)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg)](mailto:arseniytech@yahoo.com)
+<a href="https://t.me/l2093l">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram"/>
+</a>
+<a href="https://www.instagram.com/00arseniy/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram"/>
+</a>
+<a href="mailto:arseniytech@yahoo.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30" alt="Email"/>
+</a>
+
 
 
 

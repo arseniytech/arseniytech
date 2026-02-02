@@ -1,4 +1,5 @@
-![Banner](https://ru.pinterest.com/pin/500673683547505566/)
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdqd3I5cnJyNTBjZDM0OHU0YjBuMjl0NGRpaGR0Z3RqczlyNXJ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif)
+
 
 # Hi there 👋
 

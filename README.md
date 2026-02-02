@@ -14,8 +14,7 @@ Currently looking for **frontend work, internships, or projects** where I can gr
 
 ---
 
-## 📫 Contact
-- Telegram: [your link]
+## 📫 Contact me
 
 
 <!--

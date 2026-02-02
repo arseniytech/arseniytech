@@ -3,8 +3,8 @@
 ## I'm Arseniy
 Frontend developer and student in Hexlet College **Information Systems & Programming**.  
 I build web projects, learn fast, and enjoy contributing to real-world applications.  
-Im an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team **Nord City**
-  
+I'm an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team **Nord City**, and I love **traveling**.  
+
 Currently looking for **frontend work, internships, or projects** where I can grow and learn from experienced developers.  
 
 ---
@@ -25,25 +25,3 @@ Currently looking for **frontend work, internships, or projects** where I can gr
 <a href="mailto:arseniytech@yahoo.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30" alt="Email"/>
 </a>
-
-
-
-
-
-<!--
-**arseniytech/arseniytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-

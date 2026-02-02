@@ -3,7 +3,8 @@
 ## I'm Arseniy
 Frontend developer and student in Hexlet College **Information Systems & Programming**.  
 I build web projects, learn fast, and enjoy contributing to real-world applications.  
-Im an athlete playing in a **Floorball** team **Nord City**
+Im an athlete playing in a **[Floorball](https://en.wikipedia.org/wiki/Floorball)
+** team **Nord City**
   
 Currently looking for **frontend work, internships, or projects** where I can grow and learn from experienced developers.  
 

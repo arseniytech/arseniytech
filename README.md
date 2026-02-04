@@ -4,7 +4,7 @@
 
 I'm Frontend developer and student in Hexlet College, **Information Systems & Programming**.  
 I build web projects, learn fast, and enjoy contributing to real-world applications.  
-I'm an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team **Nord City**, and I love **traveling**.  
+I'm an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team **Nord City**.  
 
 Currently looking for **frontend work, internships, or projects** where I can grow and learn from experienced developers.  
 

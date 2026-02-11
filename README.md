@@ -6,7 +6,8 @@ I'm Frontend developer and student in Hexlet College, **Information Systems & Pr
 I build web projects, learn fast, and enjoy contributing to real-world applications.  
 I'm an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team [Nord City](https://t.me/fbc_nordcity)
 
-Currently looking for **frontend work, internships, or projects** where I can grow and learn from experienced developers.  
+Currently looking for **frontend work, internships, or projects** where I can grow and learn from experienced developers.
+Check out my projects!
 
 ---
 

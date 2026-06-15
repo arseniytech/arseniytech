@@ -9,7 +9,7 @@ Currently looking for **job, internships, or projects** where I can grow and lea
 Check out my projects!
 
 ## 📫 Contact me 
-<a href="https://t.me/l2093l">
+<a href="https://t.me/arseniytech">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" alt="Telegram"/>
 </a>
 <a href="https://www.instagram.com/00arseniy/">

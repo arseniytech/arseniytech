@@ -3,19 +3,10 @@
 # Hi there 👋
 
 I'm Fullstack developer and student in Hexlet College, **Information Systems & Programming**.  
-I build web projects, learn fast, and enjoy contributing to real-world applications.  
-Also, I'm an athlete playing in a [Floorball](https://en.wikipedia.org/wiki/Floorball) team [Nord City](https://t.me/fbc_nordcity)
+I build web projects, practice AI automatization and integration in my projects, learn fast, and enjoy contributing to real-world applications.  
 
-Currently looking for **frontend job, internships, or projects** where I can grow and learn from experienced developers.
+Currently looking for **job, internships, or projects** where I can grow and learn from developers.
 Check out my projects!
-
----
-
-## 🌍 Languages
-- Russian — Native  
-- English — B2–C1  
-
----
 
 ## 📫 Contact me 
 <a href="https://t.me/l2093l">
@@ -27,3 +18,12 @@ Check out my projects!
 <a href="mailto:arseniytech@yahoo.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30" alt="Email"/>
 </a>
+
+---
+
+## 🌍 Languages
+- Russian — Native  
+- English — B2–C1  
+
+---
+

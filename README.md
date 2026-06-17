@@ -3,7 +3,7 @@
 # Hi there 👋
 
 I'm Fullstack developer and student in Hexlet College, **Information Systems & Programming**.  
-I build web projects, practice AI automatization and integration in my projects, learn fast, and enjoy contributing to real-world applications.  
+I build web projects, practice AI automatization and integration in my projects, learn fast, and enjoy contributing to real-world applications. Skilled in using AI tools not as simple code generators, but as a working environment for the rapid and controlled development of production-ready solutions.  
 
 Currently looking for **job, internships, or projects** where I can grow and learn from developers.
 Check out my projects!
